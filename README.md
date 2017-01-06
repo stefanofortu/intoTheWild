@@ -6,10 +6,11 @@ This software package contains the scene text detection algorithm described in [
 
 ![](http://cs.adelaide.edu.au/~yaoli/wp-content/uploads/2013/11/characterness_pipeline2.png)
 
-This software is a C++/OpenCV version of the Matlab version provided by the papers' author in this [page](https://github.com/yaoliUoA/characterness/blob/master/README.md).
+This software is a C++/OpenCV version of the Matlab version provided by the papers' author at this [page](https://github.com/yaoliUoA/characterness/blob/master/README.md).
 
-It has been developed as a project for the Image Processing Course @ [University og Brescia University](http://www.unibs.it/ugov/degree/2063)
-[Unibs Project Page] (http://projects.i-ctm.eu/it/progetto/text-wild)
+It has been developed as a project for the Image Processing Course @ [University of Brescia University](http://www.unibs.it/ugov/degree/2063)
+
+More informations about this versions and the results achived are available here: [Unibs Project ] (http://projects.i-ctm.eu/it/progetto/text-wild)
 
 Please cite the paper if you use the C++ package. The C++ code is tested on Ubuntu 16.04. 
 
