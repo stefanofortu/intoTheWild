@@ -3,6 +3,7 @@ intoTheWild
 This software package contains the scene text detection algorithm described in [Yao Li](https://cs.adelaide.edu.au/~yaoli/), [Wenjing Jia](http://cfsites1.uts.edu.au/research/strengths/inext/member-detail.cfm?StaffID=4857), [Chunhua Shen](http://cs.adelaide.edu.au/~chhshen/), [Anton van den Hengel](http://cs.adelaide.edu.au/~hengel/) : **Characterness: An Indicator of Text in the Wild.** IEEE Transactions on Image Processing, 2014. 
 [PDF](http://cs.adelaide.edu.au/~yaoli/wp-content/publications/tip14_characterness.pdf)
 [Project page](http://cs.adelaide.edu.au/~yaoli/?page_id=111/)
+
 ![](http://cs.adelaide.edu.au/~yaoli/wp-content/uploads/2013/11/characterness_pipeline2.png)
 
 This software is a C++/OpenCV version of the Matlab version provided by the papers' author in this [page](https://github.com/yaoliUoA/characterness/blob/master/README.md).
