@@ -1,14 +1,16 @@
 intoTheWild
 =============
-This software package contains the scene text detection algorithm described in [Yao Li](https://cs.adelaide.edu.au/~yaoli/), [Wenjing Jia](http://cfsites1.uts.edu.au/research/strengths/inext/member-detail.cfm?StaffID=4857), [Chunhua Shen](http://cs.adelaide.edu.au/~chhshen/), [Anton van den Hengel](http://cs.adelaide.edu.au/~hengel/) : **Characterness: An Indicator of Text in the Wild.** IEEE Transactions on Image Processing, 2014. 
+This software package contains the scene text detection algorithm described in 
+
+[Yao Li](https://cs.adelaide.edu.au/~yaoli/), [Wenjing Jia](http://cfsites1.uts.edu.au/research/strengths/inext/member-detail.cfm?StaffID=4857), [Chunhua Shen](http://cs.adelaide.edu.au/~chhshen/), [Anton van den Hengel](http://cs.adelaide.edu.au/~hengel/) : **Characterness: An Indicator of Text in the Wild.** IEEE Transactions on Image Processing, 2014. 
 [PDF](http://cs.adelaide.edu.au/~yaoli/wp-content/publications/tip14_characterness.pdf)
 [Project page](http://cs.adelaide.edu.au/~yaoli/?page_id=111/)
 
 ![](http://cs.adelaide.edu.au/~yaoli/wp-content/uploads/2013/11/characterness_pipeline2.png)
 
-This software is a C++/OpenCV version of the Matlab version provided by the papers' author at this [page](https://github.com/yaoliUoA/characterness/blob/master/README.md).
+This software is a C++/OpenCV version of the Matlab version provided by the paper authors at this [page](https://github.com/yaoliUoA/characterness/blob/master/README.md).
 
-It has been developed as a project for the Image Processing Course @ [University of Brescia University](http://www.unibs.it/ugov/degree/2063)
+It was developed in 2014 as a project for the Image Processing Class @ [University of Brescia University](http://www.unibs.it/ugov/degree/2063)
 
 More informations about this versions and the results achived are available here: [Unibs Project ] (http://projects.i-ctm.eu/it/progetto/text-wild)
 
