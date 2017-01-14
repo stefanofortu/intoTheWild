@@ -9,8 +9,14 @@ include_directories(include)
 find_library (VLFEAT libvl.so ./vlfeat/bin/glnxa64/)
 #MESSAGE( STATUS "VLFEAT: " ${VLFEAT} )
 
-set(SOURCES src/main.cpp src/funzioni.cpp)
+set(SOURCES src/main.cpp)
+set(SOURCES ${SOURCES} src/utils.cpp)
+set(SOURCES ${SOURCES} src/histogram.cpp)
+set(SOURCES ${SOURCES} src/mserWrap.cpp)
+set(SOURCES ${SOURCES} src/cues.cpp)
+
 add_executable( intoTheWild ${SOURCES} )
+
 
 target_link_libraries( intoTheWild ${OpenCV_LIBS} )
 target_link_libraries( intoTheWild ${VLFEAT} )

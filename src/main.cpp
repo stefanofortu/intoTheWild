@@ -1,4 +1,9 @@
-#include "funzioni.hpp"
+#include "config.hpp"
+#include "cues.hpp"
+#include "mserWrap.hpp"
+#include "utils.hpp"
+#include "histogram.hpp"
+
 
 using namespace cv ;
 using namespace std;
